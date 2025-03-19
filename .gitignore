@@ -1,2 +1,5 @@
 backend/__pycache__/
 *.pyc
+backend/env
+.vscode
+backend\env\pyvenv.cfg
